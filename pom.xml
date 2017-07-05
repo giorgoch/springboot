@@ -60,8 +60,6 @@
 						<resource>
 							<targetPath>/</targetPath>
 							<directory>${project.build.directory}</directory>
-							<!--<directory>/home/giorgo/Documents/workspace-sts-3.8.4.RELEASE/microservice/demo/target/</directory> 
-								<targetPath>demo-0.0.1-SNAPSHOT.jar</targetPath> -->
 							<include>${project.build.finalName}.jar</include>
 						</resource>
 					</resources>
